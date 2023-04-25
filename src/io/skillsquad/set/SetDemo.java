@@ -1,6 +1,5 @@
-package io.skillsquad.list;
+package io.skillsquad.set;
 
-import javax.swing.table.TableRowSorter;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedHashSet;

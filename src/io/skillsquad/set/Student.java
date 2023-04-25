@@ -1,4 +1,4 @@
-package io.skillsquad.list;
+package io.skillsquad.set;
 
 public class Student {
     private Integer rollNumber;
